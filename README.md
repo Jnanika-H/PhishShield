@@ -246,4 +246,4 @@ MIT License — Free to use, modify, and distribute.
 
 ---
 
-*Built with ❤️ to protect people from scammers.*\
+*Built with ❤️ to protect people from scammers.*
