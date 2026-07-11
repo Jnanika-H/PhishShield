@@ -1,4 +1,4 @@
-# 🛡️ PhishShield — Live AI-Powered Fraud Call Detection System!!
+# 🛡️ PhishShield — Live AI-Powered Fraud Call Detection System
 
 **Status**: ✅ **100% Demo-Ready** | 🎨 Premium UI Complete | 🤖 AI Working | 📚 Fully Documented
 
